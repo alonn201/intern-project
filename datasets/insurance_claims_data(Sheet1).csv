@@ -1,0 +1,101 @@
+claim_id,insurance_id,claim_date,claim_reason,claim_amount,claim_status,resolution_date
+5dcba4b1-c94a-4605-9087-547aedd46b52,7,2024-01-18,Medical surgery,1515.08,Rejected,
+4bb84994-32c3-4f35-b251-17d9477f3307,8,2024-01-23,Medical surgery,4753.76,Rejected,
+40d655b9-25dd-467f-a88f-0c3b055aa4cb,10,2024-06-04,Car accident,9928.33,Rejected,
+6e88ed0e-bf23-4392-ba90-910e0c890fa5,9,2024-07-04,Theft,6768.39,Approved,2024-07-07 19:28:00
+54d3475b-0781-4ae8-9578-5883ad4e0f39,9,2024-11-19,Natural disaster,7818.42,Pending,
+41548022-843e-4545-b443-74160c18fbd2,10,2024-04-20,Theft,1681.21,Approved,2024-05-01 19:28:00
+6a6b88e5-6399-4ab5-b16a-374594f54787,2,2023-12-01,Car accident,8213.39,Pending,
+cea9a5ed-97a4-4aa1-938c-c155398eea87,2,2024-10-18,Natural disaster,2428.29,Rejected,
+85e4966c-331d-48a2-b986-9cb9769dfe96,1,2024-02-28,Car accident,4085.02,Approved,2024-03-26 19:28:00
+3744e6a0-117e-48ac-899c-a34ce825e701,5,2024-11-06,Home burglary,1590.78,Approved,2024-11-20 19:28:00
+95e556ae-9525-4a53-9b60-88f106280d00,1,2024-08-19,Water damage,8377.9,Pending,
+307a815a-d15a-4e33-8776-1381dc8a667b,3,2024-01-03,Car accident,8892.07,Rejected,
+664681aa-9e48-4bc8-bbc7-a45bf0b999a4,4,2024-10-09,Fire damage,2463.31,Pending,
+14c760cd-8fd2-48cf-869c-db0ef425c1cb,8,2023-12-02,Natural disaster,5308.34,Rejected,
+08f1b0b3-cd98-463c-ab3a-67da584863da,9,2024-07-18,Natural disaster,6480.6,Pending,
+850f5d26-c2aa-42b1-be7b-01be6013e396,2,2024-07-22,Natural disaster,4749.71,Pending,
+f4f3f7a1-aa8a-4506-acc6-ba19c0e3beff,3,2024-05-25,Home burglary,1457.78,Approved,2024-06-05 19:28:00
+043a5518-0310-4e10-8310-2f5fa892f30f,2,2024-06-08,Car accident,1854.88,Pending,
+258d54e2-5814-4cc5-ac45-cc991de99e08,4,2024-06-26,Fire damage,6598.63,Rejected,
+30f7c002-75a9-44e1-995f-e66240d679d0,5,2024-04-21,Fire damage,6915.85,Rejected,
+471e88b6-7b1a-4fb7-b8cd-db4d6f95c83e,1,2023-12-29,Home burglary,5771.97,Rejected,
+b39bb0f5-a7b8-441b-b367-8b801e992f22,1,2023-12-08,Fire damage,9119.07,Pending,
+8f64007e-01e6-415f-8dad-02d26dc7d350,9,2024-10-17,Natural disaster,2869.89,Approved,2024-11-15 19:28:00
+9065547b-5eb8-437a-b086-7f7f9edf0fa3,1,2024-01-08,Home burglary,7872.29,Rejected,
+ad0ea649-82d9-4437-917c-522219a86ce1,4,2024-10-05,Water damage,8719.78,Pending,
+83d42125-e44d-4496-938d-7bc54e36531e,6,2023-11-23,Natural disaster,8951.76,Approved,2023-11-25 19:28:00
+6cbcbb87-f569-45d4-bcbe-4993b6c00f12,9,2024-07-09,Theft,9010.94,Approved,2024-07-12 19:28:00
+dee58029-a679-4b81-8fa9-c24168a812ca,5,2024-01-22,Fire damage,7691.24,Rejected,
+37338701-4a3a-48a5-9092-eb8702de2aec,7,2024-03-26,Medical surgery,7484.1,Approved,2024-04-19 19:28:00
+2b3d6a4a-b891-46e5-9496-f3292ebd5d61,1,2024-01-30,Medical surgery,8799.11,Pending,
+36d54e9a-48bd-4a0f-a2fb-881f8264a82d,3,2024-06-22,Home burglary,9036.15,Rejected,
+8618c15d-bb59-4d9a-b259-3d268922b618,8,2024-04-04,Fire damage,4002.33,Rejected,
+94870920-a21d-417a-91ef-0e8c2463cf4a,9,2024-08-23,Medical surgery,4776.99,Rejected,
+d7d427c5-5145-4151-909f-adc6f2fbd634,3,2024-01-05,Natural disaster,2003.96,Rejected,
+4227bda3-7497-4e7f-a11d-a361c5da5f7f,4,2024-04-10,Medical surgery,2782.7,Rejected,
+0e78f9d6-80d9-4a25-8b8c-3c7cf2d29a69,5,2024-04-03,Water damage,1070.52,Rejected,
+268facfd-2f62-429d-b2cf-869fe4d5c4b6,6,2024-05-21,Medical surgery,5361.37,Approved,2024-06-13 19:28:00
+1a64a8f5-a06d-4775-b961-2d3a25de9e5c,5,2024-06-10,Home burglary,1206.32,Rejected,
+5905d310-d8c0-440c-aa11-8ab4939dda8a,5,2024-10-28,Fire damage,3397.39,Pending,
+3f41542b-670e-4266-b542-8332fe97a9e5,4,2024-01-16,Car accident,5167.69,Rejected,
+4355ca3e-6654-4f24-a42c-3ef8b182ff58,4,2023-12-31,Water damage,3856.33,Rejected,
+fdecf819-66fa-4a88-b6b6-d85ac75de199,7,2024-07-16,Water damage,8172.07,Approved,2024-08-02 19:28:00
+9bb11f13-16cc-413b-b79a-995c12c60bbd,10,2024-07-13,Fire damage,6403.89,Approved,2024-08-03 19:28:00
+677ee49e-96c2-48d9-ac55-cd848ae79f7c,2,2024-08-01,Natural disaster,5292.28,Rejected,
+624568a6-2d0b-4367-af91-28d28c919cfa,8,2024-07-10,Fire damage,7606.45,Approved,2024-08-06 19:28:00
+3aeacaeb-dc10-49a1-8b74-73a324247274,10,2024-05-19,Home burglary,5161.67,Rejected,
+62efbb15-7aec-44cc-933f-93c650a471ba,6,2024-01-08,Car accident,3592.51,Pending,
+a382b59d-9ba8-48cf-b9f0-5cfce5667558,4,2024-05-24,Home burglary,1399.87,Approved,2024-06-23 19:28:00
+e2b547b9-2d3b-408f-b40f-4067b53466bf,2,2024-04-03,Natural disaster,4027.36,Approved,2024-04-25 19:28:00
+8c40dcbe-eaf3-4944-b340-ad3f3f0c2025,4,2023-12-03,Home burglary,9431.85,Approved,2023-12-04 19:28:00
+f96e0ce2-066e-46d4-84e5-4e75c9250ec2,3,2024-07-28,Medical surgery,9094.4,Approved,2024-08-15 19:28:00
+b20aed06-9fa2-4199-a1f1-37d4f937c3d7,5,2024-04-12,Fire damage,2145.94,Approved,2024-04-30 19:28:00
+17ef2bb3-86ab-4f8e-8712-fd3d1e421a93,9,2024-10-19,Car accident,5578.89,Approved,2024-11-08 19:28:00
+36df4ee7-694b-408f-ab51-6820553785ce,1,2024-01-26,Natural disaster,8104.2,Approved,2024-02-23 19:28:00
+e6d2b889-3be2-4205-a603-85972e906420,7,2024-11-07,Natural disaster,5938.77,Pending,
+4c881fb5-f8b4-4cab-bd0d-3a72105ddea4,9,2024-05-06,Water damage,6131.24,Pending,
+fdfa9ff4-c7a6-46b2-9f03-e128ea43a21d,4,2024-08-06,Medical surgery,6173.3,Approved,2024-08-08 19:28:00
+d3bcd2ef-18b8-4010-bffb-7f22d59d61f0,1,2024-07-19,Water damage,3528.13,Rejected,
+a052f185-0f7a-4b40-add8-4ec3e67e39d3,5,2024-06-01,Home burglary,7380.84,Rejected,
+a5f1797d-6074-4d07-84ad-ba1f402b775b,2,2024-01-29,Theft,8554.22,Pending,
+adc06871-6a78-4312-9ea1-9f31206c228a,5,2024-09-30,Car accident,2829.55,Pending,
+144c2801-2436-4ac6-9c94-3ff53c537b80,7,2024-10-18,Car accident,9324.13,Approved,2024-10-28 19:28:00
+db737fd7-1d83-4884-ba37-2f9d71d237a8,8,2024-05-04,Home burglary,5138.99,Pending,
+a06b8784-56ab-4297-8d47-5ef3420dba9b,5,2024-10-24,Water damage,9112.63,Pending,
+8e0cf6b6-7e8a-4d7f-bf05-98b9943f88e2,6,2024-10-07,Natural disaster,2860.85,Rejected,
+545c7e47-1a88-46b8-aeef-06c583fd0fdd,4,2024-08-20,Medical surgery,6684.63,Approved,2024-09-16 19:28:00
+6fab36f0-520d-4834-9d4b-1199f4fb3c38,1,2024-05-02,Medical surgery,9116.75,Approved,2024-05-27 19:28:00
+b63a9e50-b23b-43cd-a659-f85ac6de1a6e,9,2024-01-09,Water damage,8191.66,Pending,
+fb7b75ef-9996-41ea-aa8f-f30e0a4d7bef,1,2024-09-17,Car accident,1434.46,Rejected,
+976a33de-4e4a-465e-94f3-1a400323c21b,2,2023-12-06,Fire damage,1125.68,Pending,
+4f5eda47-a29c-493d-b81f-8becb3ae9cd4,6,2024-03-23,Theft,7965.42,Pending,
+e2c9c454-ced0-457d-b67b-7cf8e4f07229,3,2024-06-13,Water damage,5760.3,Approved,2024-06-29 19:28:00
+c1bad6fe-d109-48cc-8498-061e46b72bbb,5,2023-11-28,Natural disaster,8171.16,Approved,2023-12-24 19:28:00
+d283660a-0bd4-43bf-8908-3c88c384da1d,4,2024-08-13,Car accident,5334.66,Pending,
+cf93d1eb-24b4-4ae8-91a8-2f47e1af14b6,5,2024-01-01,Fire damage,6028.47,Pending,
+9edc2a5b-3f30-4171-bac6-5f47fe112222,10,2024-08-20,Medical surgery,4223.39,Approved,2024-09-08 19:28:00
+0d78f5be-aefb-44a1-b945-c0b4b789623e,8,2024-01-11,Medical surgery,1660.07,Approved,2024-01-20 19:28:00
+94a60687-5535-43d8-9978-249537e95a34,8,2024-01-21,Fire damage,4664.98,Pending,
+82e7b5ff-ed40-4473-8192-3718fd8bf44f,3,2024-01-04,Water damage,4378.38,Pending,
+0f83fbc9-7fbd-4e0d-9916-38a09a8d559b,5,2024-06-04,Fire damage,7811.3,Approved,2024-06-28 19:28:00
+050d6531-651e-406f-bfc9-ed4b9662dbee,6,2024-05-21,Natural disaster,9948.61,Approved,2024-06-08 19:28:00
+7abd8d31-b92b-4045-85a0-626152f4bcf4,3,2024-09-27,Medical surgery,6741.71,Rejected,
+c39d88e7-2d68-4363-a9b8-95086fe972f4,8,2023-12-30,Medical surgery,2872.74,Approved,2024-01-01 19:28:00
+eb09e90b-bdf7-49d7-8228-86fdb54fe5ca,4,2024-03-15,Medical surgery,3055.13,Approved,2024-03-29 19:28:00
+24c46c65-9821-4beb-a5d7-af13fd89f45d,10,2024-02-16,Fire damage,9829.4,Rejected,
+ab57fa42-4573-458b-9605-f720cd99e058,7,2023-12-24,Natural disaster,9394.8,Approved,2023-12-28 19:28:00
+11b345fb-c5b2-464f-baa7-2fe33fa0cff8,5,2024-07-30,Home burglary,5786.46,Pending,
+737232c1-587b-4011-b7ce-62caa71bc77c,8,2024-10-14,Natural disaster,5782.11,Rejected,
+0ffb959b-4129-4107-80e2-59609281260f,8,2024-02-28,Medical surgery,3482.42,Rejected,
+879d189c-971d-40ec-8e4b-0e046db4b188,10,2024-09-10,Home burglary,6655.62,Approved,2024-09-17 19:28:00
+aa352fbf-5b63-458d-8ddc-308242ca0fa6,5,2024-01-16,Fire damage,1770.82,Rejected,
+362c6bca-5e05-4f23-8640-692e7e81a54c,8,2024-05-01,Theft,3644.46,Approved,2024-05-29 19:28:00
+df1f7c75-b1dd-45f8-be24-3b99596c915c,8,2024-11-06,Theft,7543.01,Pending,
+db5a6c43-a0a0-4217-a25b-c71d985b9a82,4,2024-02-12,Natural disaster,4057.03,Pending,
+e7fcf73a-0791-4884-bd5f-bd1135d471de,1,2024-07-27,Theft,2891.46,Rejected,
+42bd39ed-18fb-49fe-a151-d6c8aaaef494,3,2024-06-14,Water damage,4485.51,Rejected,
+ed3ceb91-7448-471f-88d5-630a854d68ac,5,2024-07-21,Fire damage,1363.28,Rejected,
+5f0ddb44-8622-4252-bcff-58b727ac934a,1,2024-07-01,Fire damage,4469.86,Pending,
+9ce8b8f9-c586-4a1d-ad0b-f1648add8014,2,2024-08-04,Home burglary,2664.66,Rejected,
+ab53be85-699e-4bb2-9300-90c1310981df,1,2024-05-10,Medical surgery,3478.04,Approved,2024-06-01 19:28:00

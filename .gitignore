@@ -1,0 +1,5 @@
+.env
+.venv
+__pycache__
+Original_insurance.csv
+insurance_claims_data(Sheet1).csv
