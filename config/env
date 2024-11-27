@@ -1,0 +1,3 @@
+add a new .env file containting 
+DATABASE_URL = "postgresql://postgres:%21%40%23%24%25%5E%26%2A@localhost:5432/interndb"
+with one matching your data base
